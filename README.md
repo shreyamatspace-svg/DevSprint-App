@@ -57,6 +57,7 @@ Please follow these steps carefully to ensure your project is evaluated:
 | Animals | The Dog API | Random dog images | `https://api.thedogapi.com/v1/images/search` |
 | Animals | Dog CEO API | Random dog images by breed | `https://dog.ceo/api/breeds/image/random` |
 | Utility | Random User | Fake identity generator | `https://randomuser.me/api/` |
+| Utility | Dummy Json | Dummy Products Data | `https://dummyjson.com/products` |
 | Utility | Agify | Predicts age from a name | `https://api.agify.io?name=michael` (You can use another name instead of michael too) |
 
 ---
